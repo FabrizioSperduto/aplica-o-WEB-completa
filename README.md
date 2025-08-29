@@ -20,7 +20,9 @@ Este projeto é um **MVP** de Lista de Tarefas com **Backend em Spring Boot** , 
 2. A API estará disponível em:
   http://localhost:8080
 
-💻 Como executar o Frontend (Angular)
+---
+
+## 💻 Como executar o Frontend (Angular)
 
 1. Entrar na pasta do frontend:
   ```bash
