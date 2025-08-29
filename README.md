@@ -1,6 +1,6 @@
 # 📝 Lista de Tarefas Web (MVP)
 
-Este projeto é um **MVP** de Lista de Tarefas com **Backend em Spring Boot** e **Frontend em Angular**, que se comunicam via **API REST**.
+Este projeto é um **MVP** de Lista de Tarefas com **Backend em Spring Boot** **Frontend em Angular**, que se comunicam via **API REST**.
 
 ---
 
