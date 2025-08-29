@@ -15,12 +15,11 @@ Este projeto é um **MVP** de Lista de Tarefas com **Backend em Spring Boot** , 
 
 1. Entre na pasta do backend:
    ```
-   cd backend
-  ```
+     cd backend
+   ```
 2. A API estará disponível em:
-  ```
-  http://localhost:8080
-```
+   ```
+    http://localhost:8080
 
 ---
 
@@ -28,22 +27,22 @@ Este projeto é um **MVP** de Lista de Tarefas com **Backend em Spring Boot** , 
 
 1. Entre na pasta do frontend:
 ```
-cd frontend
+  cd frontend
 ```
 
 2. Instale as dependências:
 ```
-npm install -g @Angular/cli
+  npm install -g @Angular/cli
 ```
 
 3. Rode a aplicação:
 ```
-ng serve --open
+  ng serve --open
 ```
 
 4. O frontend abrirá em:
 ```
-http://localhost:4200
+  http://localhost:4200
 ```
 
 ---
