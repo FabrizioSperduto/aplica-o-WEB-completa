@@ -16,7 +16,7 @@ Este projeto é um **MVP** de Lista de Tarefas com **Backend em Spring Boot** , 
 1. Entre na pasta do backend:
    ```
    cd backend
-
+  ```
 2. A API estará disponível em:
   ```
   http://localhost:8080
