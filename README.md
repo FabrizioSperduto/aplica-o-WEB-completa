@@ -14,7 +14,7 @@ Este projeto é um **MVP** de Lista de Tarefas com **Backend em Spring Boot** , 
 ## ⚙️ Como executar o Backend (Spring Boot)
 
 1. Entre na pasta do backend:
-   ```bash
+   ```
    cd backend
 
 2. A API estará disponível em:
@@ -24,18 +24,36 @@ Este projeto é um **MVP** de Lista de Tarefas com **Backend em Spring Boot** , 
 
 ## 💻 Como executar o Frontend (Angular)
 
-1. Entrar na pasta do frontend:
-  ```bash
+1. Entre na pasta do frontend:
+```
 cd frontend
+```
 
-2. Instalar dependências:
-npm install -g @angular/cli
+2. Instale as dependências:
+```
+npm install -g @Angular/cli
+```
 
-3. Rodar a aplicação:
-  ```bash
+3. Rode a aplicação:
+```
 ng serve --open
+```
 
-
-O frontend abrirá em:
-  ```àrduino
+4. O frontend abrirá em:
+```
 http://localhost:4200
+```
+
+---
+
+📌 Funcionalidades
+
+Adicionar tarefa
+
+Listar tarefas
+
+Atualizar tarefa
+
+Excluir tarefa
+
+Alternar entre tema Dark/Light
