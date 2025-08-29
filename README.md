@@ -18,7 +18,6 @@ Este projeto é um **MVP** de Lista de Tarefas com **Backend em Spring Boot** , 
    cd backend
 
 2. A API estará disponível em:
-   ```arduino
   http://localhost:8080
 
 💻 Como executar o Frontend (Angular)
@@ -28,7 +27,6 @@ Este projeto é um **MVP** de Lista de Tarefas com **Backend em Spring Boot** , 
 cd frontend
 
 2. Instalar dependências:
-  ```bash
 npm install -g @angular/cli
 
 3. Rodar a aplicação:
