@@ -7,7 +7,7 @@ Este projeto é um **MVP** de Lista de Tarefas com **Backend em Spring Boot** , 
 ## 🚀 Tecnologias
 - **Backend:** Java + Spring Boot
 - **Frontend:** Angular
-- **Banco de dados:** H2 (memória) ou outro configurado no `application.properties`
+- **Banco de dados:** H2 (memória)
 
 ---
 
